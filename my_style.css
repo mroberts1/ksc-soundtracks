@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Sanchez&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+@import url("https://use.typekit.net/uds6lpa.css");
+
+@charset "UTF-8";
+
+h1,h2,h3 {
+  font-style: normal;
+  font-weight: 600;
+}
+
+body {
+  font-family: Raleway, sans-serif;
+  font-size: 12pt;
+  
+}
+h1 {
+  font-size: 2em;
+  font-family: "Sanchez", sans-serif;
+}
+
+h2 {
+  font-size: 1.4em;
+  font-family: "Sanchez", sans-serif;
+}
+
+h3 {
+  font-size: 1.2em;
+  font-family: "Sanchez", sans-serif;
+}
