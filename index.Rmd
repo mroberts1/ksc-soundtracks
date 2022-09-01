@@ -16,7 +16,7 @@ link-citations: yes
 ---
 
 ### IIFILM-362-01 Listening to Movies: Film Soundtracks
-[![Ennio Morricone](https://dokoissho.sdf.org/ksc/soundtracks/img/ennio-morricone-trumpet.jpg)](https://dokoissho.sdf.org/ksc/soundtracks/img/ennio-morricone-trumpet.jpg)
+[![Ennio Morricone](https://dokoissho.sdf.org/ksc/soundtracks/img/ennio-morricone-trumpet.jpg)](https://dokoissho.sdf.org/ksc/soundtracks/img/ennio-morricone-trumpet.jpg)  
 Fall Semester 2022  
 4 credits  
 Thursday 10:00 a.m.-1:30 p.m.  
@@ -31,16 +31,6 @@ Email: [martin.roberts@keene.edu](mailto:martin.roberts@keene.edu)
 ### Description
 
 Since the arrival of sound in cinema in the late 1920s, musical soundtracks have been a key aesthetic element in the history of cinema. This course explores the rich history of cinematic soundtracks, from the pianists that accompanied early silent cinema to the recent popularity of live soundtrack performances at screenings of silent classics such as _The Black Pirate_. Topics include the symphonic music of the “Hollywood Sound”; cartoon music, from _Merrie Melodies_ to Walt Disney's _Fantasia_; jazz and _film noir_; electronic music in 1950s sci-fi movies; Bernard Herrmann’s collaborations with Alfred Hitchcock; the French New Wave soundtracks of Georges Delerue and Michel Legrand; the psychedelic movies of The Beatles and The Monkees; the soundtracks of Ennio Morricone and Lalo Schifrin; the progressive rock soundtracks of the art cinema of Michelangelo Antonioni and Werner Herzog; and the Japanese composer Toru Takemitsu’s collaboration with Akira Kurosawa.
-
-***  
-
-### Outcomes
-After completing the course, students should have acquired the following skills:
-
-- Ability to analyze technical/formal components of film narratives (shot composition, cinematography, editing, use of color, sound, narrative structure, genre, or style) as a path to understanding their intended meanings
-- Basic understanding of major interpretative frameworks by which film narratives can be analyzed and ability to apply one or more of these frameworks to the analysis of specific film anrratives
-- Understanding of methodological and stylistic differences between forms of writing about film, including movie reviews, critical essays, theoretical essays, fan discourse
-- Ability to deploy the above analytical skills in critical essays that analyze the meaning of films as cultural texts
 
 ----------
 
@@ -58,9 +48,9 @@ Other reading assignments will be available for download from Canvas or either i
 _Laura_ (Otto Preminger, 1944)  
 _Fantasia_ (Walt Disney, 1940)  
 _Forbidden Planet_ (Fred M. Wilcox, 1956)  
-_Shoot the Piano Player_ (François Truffaut, 1960)  
 _Rashomon_ (Akira Kurosawa, 1950)  
 _The Connection_ (Shirley Clarke, 1963)  
+_A Fistful of Dollars_ (Sergio Leone, 1964)  
 _Bullitt_ (Peter Yates, 1968)
 _Aguirre, The Wrath of God_ (Werner Herzog, 1972)  
 _Under the Skin_ (Jonathan Glazer, 2013)  
@@ -81,18 +71,12 @@ _Theremin: An Electronic Odyssey_ (Stephen M. Martin, 1993)
 _Deconstructing Dad: The Music, Machines, and Mystery of Raymond Scott_ (Stan Warnow, 2010)  
 _Ennio: The Maestro_ (Giuseppe Tornatore, 2021)  
 
-### Class format
-
-Begininng in Week 2, each class session will be divided into two halves, with a short break between each. In the first half, we'll discuss a chapter from Part One of the course textbook (**Techniques & Meaning**); in the second half, we'll discuss a chapter from Part Three (**Critical Analysis**). 
-
-Each week beginning in week 2, a group of three students will be assigned to host a 30-minute discussion of the reading assignment in the first half of class (i.e., there will be one group in the first half and a different group in the second half). Group assignments are made randomly. 
-
 ***  
 
 ### Assignments
 
-_Audiovisual Essay_  
-Approximately 10 minutes in length. Should include a montage of relevant clips with interpretive voice-over. Submission should include video file and full transcript with bibliography of sources used. Alternatively, a 10-12 page research essay may be written. This project will be presented in class, with clips, during the last two classes of the semester.  
+*Final Research Paper Essay*_  
+2,000 words. A study of at least three films scored by one composer.  
   
 _Synchronicity Project_  
 5-10 minute film or video sequence set to an alternative soundtrack of your choice, on the model of the _Wizard of Oz_/_Dark Side of the Moon_ model. Shared on Canvas and in class.  
@@ -213,12 +197,21 @@ In-class: _The Connection_
 
 _Week 8 (Thur 10/20)_
 
-**Mission Impossible: Lalo Schifrin**  
+**Morricone/Schifrin**  
 
-“[Lalo Schifrin](https://canvas.emerson.edu/courses/1622820/files/93569047/download?wrap=1 "_----_(LALO_SCHIFRIN).pdf")” (in [_The Sound of Pictures_](https://ebookcentral.proquest.com/lib/emerson/detail.action?docID=1887549#)) 
+“[Ennio Morricone](http://dokoissho.sdf.org/ksc-call/soundtracks/pdf/brown-morricone-interview.pdf),” “[Lalo Schifrin](http://dokoissho.sdf.org/ksc-call/soundtracks/pdf/brown-schifrin-interview.pdf)” (in Andrew Ford, _The Sound of Pictures_)
 
-Watch: *Bullitt*  
-In-class: Lalo Schifrin documentary
+[_Mission Impossible_](https://drive.google.com/file/d/1p4LWiOwQwUhbNli0ZVmJfo13aWEreLcJ/view?usp=sharing) (CBS, 1966-68), opening credits  
+[_Bullitt_ (Peter Yates, 1968)](https://drive.google.com/file/d/1gUFjkqKSBjv8cn6sDzEaiHKImlcJu4-n/view?usp=sharing)  
+
+In-class:
+[_A Fistful of Dollars_](https://drive.google.com/file/d/1B1yElphaCn11Msq2J6wv1-CKkKsKfzGO/view?usp=sharing) (Sergio Leone, 1964), opening credits  
+[_The Good, The Bad, and the Ugly_](https://drive.google.com/file/d/1w3UabrNalTqA2gSUj7f2UvR7JV8e_tdM/view?usp=sharing) (Sergio Leone, 1967), final duel scene  
+[_Le Casse_](https://drive.google.com/file/d/18-6_rqghFln8uFNzwumXKrnjR7AKw6e5/view?usp=sharing) (_The Burglars_) (Henri Verneuil, 1971), opening credits  
+
+Watch:
+_Ennio: The Maestro_ (Giuseppe Tornatore, 2021)  
+[_Movie Music Man: A Portrait of Lalo Schifrin_](https://drive.google.com/file/d/1Vbzg756QGgj2jhKSGFqyOnf9scehId0a/view?usp=sharing) (Rodney Greenberg, 1993)  
 
 ***  
 
@@ -235,7 +228,9 @@ Watch: _Aguirre or the Wrath of God_
 _Week 10 (Thur 11/03)_
 
 **Alien Sounds: Micah Levi**
-(Add readings)
+
+Ned Beauman, [“Mica Levi’s Intensely Unconventional Film Scores”](https://www.newyorker.com/culture/persons-of-interest/mica-levis-anti-musical-soundtracks) (_New Yorker_, 23 Feb 2017)  
+
 Watch: *Under The Skin*  
 See also: _Jackie_  
  
@@ -244,6 +239,7 @@ See also: _Jackie_
 _Week 11 (Thur 11/10)_
 
 **Apprehension Engines: Mark Korven**
+
 Watch: *The Witch*  
 
 ***  
@@ -251,6 +247,7 @@ Watch: *The Witch*
 _Week 12 (Thur 11/17)_
 
 **The Weird and the Eerie: Ben Salisbury & Geoff Barrow**
+
 Watch: *Annihilation*  
 
 ***
@@ -262,7 +259,16 @@ NO CLASS (Thanksgiving Week)
 _Week 14 (Thur 12/01)_
 
 **Shepherd Tones: Hans Zimmer** 
-Watch: *Dunkirk*  
+
+“[How Hans Zimmer Creates Sound Worlds](https://drive.google.com/file/d/1SA5hUx6XaSRGHasYygnAPYGjFvF315je/view?usp=sharing)”  
+“[Hans Zimmer Revealed](http://www.hans-zimmer.com/index.php?rub=disco&id=1314)” (2014)  
+[Hans Zimmer Spitfire Audio page](https://www.spitfireaudio.com/shop/artists/hans-zimmer/) (digital sample libraries of Hans Zimmer’s film music)  
+[Inside Hans Zimmer’s Studio](https://composer.spitfireaudio.com/en/articles/inside-hans-zimmers-studio) (Spitfire Audio)  
+Christopher Hauerin, [“The Sound Illusion That Makes _Dunkirk_ So Intense”](https://www.vox.com/videos/2017/7/26/16033868/dunkirk-soundtrack-shepard-tone) (_Vox_)  
+
+Watch: _Dunkirk_ (Christopher Nolan, 2017)
+
+See also: _Inception_; (2010); _Interstellar_ (2014)
 
 ***  
 
