@@ -15,7 +15,7 @@ output:
 link-citations: yes
 ---
 
-### IIFILM-362-01 Listening to Movies: Film Soundtracks
+# IIFILM-362-01 Listening to Movies: Film Soundtracks
 [![Ennio Morricone](https://dokoissho.sdf.org/ksc/soundtracks/img/ennio-morricone-trumpet.jpg)](https://dokoissho.sdf.org/ksc/soundtracks/img/ennio-morricone-trumpet.jpg)  
 Fall Semester 2022  
 4 credits  
@@ -28,13 +28,13 @@ Email: [martin.roberts@keene.edu](mailto:martin.roberts@keene.edu)
 
 ***  
 
-### Description
+## Description
 
 Since the arrival of sound in cinema in the late 1920s, musical soundtracks have been a key aesthetic element in the history of cinema. This course explores the rich history of cinematic soundtracks, from the pianists that accompanied early silent cinema to the recent popularity of live soundtrack performances at screenings of silent classics such as _The Black Pirate_. Topics include the symphonic music of the “Hollywood Sound”; cartoon music, from _Merrie Melodies_ to Walt Disney's _Fantasia_; jazz and _film noir_; electronic music in 1950s sci-fi movies; Bernard Herrmann’s collaborations with Alfred Hitchcock; the French New Wave soundtracks of Georges Delerue and Michel Legrand; the psychedelic movies of The Beatles and The Monkees; the soundtracks of Ennio Morricone and Lalo Schifrin; the progressive rock soundtracks of the art cinema of Michelangelo Antonioni and Werner Herzog; and the Japanese composer Toru Takemitsu’s collaboration with Akira Kurosawa.
 
 ----------
 
-### Reading Assignments
+## Reading Assignments
 
 Kathryn Kalinak, [_Film Music: A Very Short Introduction_](https://linker2.worldcat.org/?jHome=http%3A%2F%2F0-search.ebscohost.com.ksclib.keene.edu%2Flogin.aspx%3Fdirect%3Dtrue%26scope%3Dsite%26db%3Dnlebk%26AN%3D311723&linktype=best). Oxford: Oxford University Press, 2010. 
 
@@ -43,7 +43,7 @@ This text is available as an e-book via Mason Library.
 Other reading assignments will be available for download from Canvas or either individually or collectively as a zip file from the course GitHub repository.
 
 ***  
-### Viewing Assignments
+## Viewing Assignments
 
 _Laura_ (Otto Preminger, 1944)  
 _Fantasia_ (Walt Disney, 1940)  
@@ -60,7 +60,7 @@ _Annihilation_ (Alex Garland, 2018)
 
 ***
 
-### Documentaries
+## Documentaries
 
 _Music for the Movies: Bernard Herrmann_ (Joshua Waletzky, 1992)  
 _Music for the Movies: Toru Takemitsu_ (Charlotte Zwerin, 1994)  
@@ -73,7 +73,7 @@ _Ennio: The Maestro_ (Giuseppe Tornatore, 2021)
 
 ***  
 
-### Assignments
+## Assignments
 
 *Final Research Paper Essay*_  
 2,000 words. A study of at least three films scored by one composer.  
@@ -87,7 +87,7 @@ _Screening Reports_
 _Screening Report Essay_  
 2 short essays approximately 750-1,000 words (3-4 pages double-spaced) in length, based on the in-class presentation.  
 
-### Evaluation
+## Evaluation
 
 Audiovisual Essay: 25%  
 Synchronicity Project: 15%  
@@ -96,7 +96,7 @@ Screening Report Essay: 20%
 
 ----------
 
-### Schedule of classes
+## Schedule of classes
 
 _Week 1 (Thur 09/01)_
 
@@ -285,7 +285,7 @@ Exam period (Tues-Fri 12/13-16)
 
 ***
 
-### Online Sources
+## Online Sources
 
 [_The Soundtrack_](https://www.intellectbooks.com/the-soundtrack) (academic journal)  
 [Art of the Title](https://www.artofthetitle.com/features/) (web portal about title sequences)
@@ -293,7 +293,7 @@ Exam period (Tues-Fri 12/13-16)
 Chris Willman, [“Quentin Tarantino’s ‘Once Upon A Time… In Hollywood’: Deconstructing the Soundtrack”](https://variety.com/2019/music/news/quentin-tarantino-music-supervisor-mary-ramos-once-upon-a-time-in-hollywood-1203281034/?fbclid=IwAR3aIzi3Xd1ejRubTOCeaW9gmTzFa90jkNwfita9qNm1o_4O4uDblGNmUag)
 
 
-### Select Bibliography
+## Select Bibliography
 
 
 Rose Bridges (2017), _Yōko Kanno’s ‘Cowboy Bebop’ Soundtrack_, New York: Bloomsbury Academic.  
@@ -308,7 +308,7 @@ Graeme Harper, Ruth Doughty, and Jochen Eisentraut, eds. (2009), _Sound and Mus
 Winifred Philips (2017), _A Composer’s Guide to Game Music_, Cambridge, MA: MIT Press.  
 Andrew Schartmann (2015), _Koji Kondo’s Super Mario Bros. Soundtrack_, New York: Bloomsbury Academic.
 
-### Policies & Protocol
+## Policies & Protocol
 
 **Attendance**
 Since this class meets only weekly, attendance is particularly important. Students are allowed one absence per semester. Two absences will lower your final grade half a letter grade. Three absences will lower your grade a whole letter grade. Any more than **three absences**, regardless of the reason, and students will have to withdraw from the course (in accordance with Keene State College student handbook). Come and talk to me if you have any problem in attending the class.
@@ -317,17 +317,17 @@ Keene State policy: A student who misses more than 3 weeks in the first 10 weeks
 
 ----------
 
-### Readings & assignments
+## Readings & assignments
 Readings assigned for each week should be completed **prior to** the class meeting. Assignments are due at the beginning of the class unless stated otherwise. **Please do not email submissions.**
 
 ----------
 
-### Discussion & participation
+## Discussion & participation
 Class discussion (i.e. your participation) is one of the most essential parts of this class. Please come to class fully prepared—both intellectually and physically. Also keep in mind that we always need to work together in order to create a productive and inspiring academic environment by being polite and respectful toward other students’ comments and ideas. In order to ensure your full participation and engagement in class, the use of laptops and/or mobile devices during lectures, discussion, and screenings is not permitted.  
 
 ----------
 
-### Academic honesty
+## Academic honesty
 We understand and agree that we are participating in higher education. We respect this process and will act as mature and responsible individuals in it. To ensure that, all students are expected to hand in original written work. Using other people’s words without proper attribution constitutes plagiarism. Plagiarism and any other forms of cheating will result in an F for the assignment and may include further College sanctions. In this class, every student must be aware of and adhere to the college’s policy on academic honesty. Detailed procedures and processes pertaining to the Policy on Academic Honesty can be viewed at [http://www.keene.edu/policy/academichonesty.cfm (Links to an external site.)Links to an external site.](http://www.keene.edu/policy/academichonesty.cfm)
 
 ***
