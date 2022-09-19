@@ -3,15 +3,15 @@ title: ''
 author: "Martin Roberts"
 date: "`r Sys.Date()`"
 output:
-  tufte::tufte_handout:
-    citation_package: natbib
-    latex_engine: lualatex
+  tufte::tufte_html:
+    css: my_style.css
   tufte::tufte_book:
     citation_package: natbib
     latex_engine: lualatex
   word_document: null
-  tufte::tufte_html:
-    css: my_style.css
+  tufte::tufte_handout:
+    citation_package: natbib
+    latex_engine: lualatex
   pdf_document: default
 mainfont: Inter
 link-citations: yes
