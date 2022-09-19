@@ -2,22 +2,22 @@
 title: ''
 author: "Martin Roberts"
 date: "`r Sys.Date()`"
-mainfont: Inter
 output:
-  tufte::tufte_html:
-    css: my_style.css
   tufte::tufte_handout:
     citation_package: natbib
-    latex_engine: xelatex
+    latex_engine: lualatex
   tufte::tufte_book:
     citation_package: natbib
-    latex_engine: xelatex
+    latex_engine: lualatex
   word_document: null
+  tufte::tufte_html:
+    css: my_style.css
+  pdf_document: default
+mainfont: Inter
 link-citations: yes
 ---
-
 # IIFILM-362-01 Listening to Movies: Film Soundtracks
-[![Ennio Morricone](https://dokoissho.sdf.org/ksc/soundtracks/img/ennio-morricone-trumpet.jpg)](https://dokoissho.sdf.org/ksc/soundtracks/img/ennio-morricone-trumpet.jpg)  
+![](img/ennio-morricone-trumpet.jpg)  
 Fall Semester 2022  
 4 credits  
 Thursday 10:00 a.m.-1:30 p.m.  
