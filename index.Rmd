@@ -52,7 +52,7 @@ _Forbidden Planet_ (Fred M. Wilcox, 1956)
 _Rashomon_ (Akira Kurosawa, 1950)  
 _The Connection_ (Shirley Clarke, 1963)  
 _A Fistful of Dollars_ (Sergio Leone, 1964)  
-_Bullitt_ (Peter Yates, 1968)
+_Bullitt_ (Peter Yates, 1968)  
 _Aguirre, The Wrath of God_ (Werner Herzog, 1972)  
 _Under the Skin_ (Jonathan Glazer, 2013)  
 _The Witch_ (Robert Eggers, 2015)  
@@ -70,6 +70,7 @@ _Music for the Movies: The Hollywood Sound_ (Joshua Waletzky, 1995)
 _Ryuichi Sakamoto: CODA_ (Stephen Nomura Schible, 2017)  
 _Theremin: An Electronic Odyssey_ (Stephen M. Martin, 1993)  
 _Deconstructing Dad: The Music, Machines, and Mystery of Raymond Scott_ (Stan Warnow, 2010)  
+[_Sisters With Transistors_](https://www.kanopy.com/en/product/12168721) (Lisa Rovner, 2020). On Kanopy; requires town library card for access.    
 _Ennio: The Maestro_ (Giuseppe Tornatore, 2021)  
 
 ***  
@@ -178,7 +179,7 @@ Donald Richie, "[Notes on the Film Music of Takemitsu Tōru](https://canvas.emer
 Watch: *Rashomon*  
 In-class: *Music for the Movies: Toru Takemitsu*  
 
-**Deadline: Midterm exam**
+**Deadline: Midterm**
 
 ***  
 
@@ -295,17 +296,23 @@ Chris Willman, [“Quentin Tarantino’s ‘Once Upon A Time… In Hollywood’
 ## Select Bibliography
 
 
-Rose Bridges (2017), _Yōko Kanno’s ‘Cowboy Bebop’ Soundtrack_, New York: Bloomsbury Academic.  
-Philip Brophy (2004), _100 Modern Soundtracks_, London: British Film Institute.  
-James Buhler, Caryl Finn, and David Neumeyer (2000), _Music and Cinema_, Hanover, NH: University Press of New England.  
-Michel Chion, [_Audio-Vision: Sound on Screen_](http://0-search.ebscohost.com.ksclib.keene.edu/login.aspx%3fdirect%3dtrue%26db%3dnlebk%26AN%3d2026762%26site%3dehost-live%26scope%3dsite%26ebv%3DEB%26ppid%3Dpp_171). Second English edition. New York: Columbia University Press, 2017 [1990].  
-John Culhane, (1983), _Walt Disney’s Fantasia_, New York: Abradale Press/Harry N. Abrams, Inc.  
-Andrew Ford (2009), _The Sound of Pictures: Listening to the Movies_, Cullingwood, Victoria: Black, Inc.  
-Krin Gabbard (1996), _Jammin’ at the Margins: Jazz and the American Cinema_, Chicago: Chicago University Press.  
-Daniel Goldmark, Lawrence Kramer, and Richard D. Leppert, eds. (2007), _Beyond the Soundtrack: Representing Music in Cinema_, Berkeley: University of California Press.  
-Graeme Harper, Ruth Doughty, and Jochen Eisentraut, eds. (2009), _Sound and Music in Film and Visual Media_, New York: Bloomsbury Academic.  
-Winifred Philips (2017), _A Composer’s Guide to Game Music_, Cambridge, MA: MIT Press.  
-Andrew Schartmann (2015), _Koji Kondo’s Super Mario Bros. Soundtrack_, New York: Bloomsbury Academic.
+Bridges, Rose (2017). _Yōko Kanno’s ‘Cowboy Bebop’ Soundtrack_. New York: Bloomsbury Academic.  
+Brophy (2004), Philip. _100 Modern Soundtracks_. London: British Film Institute.  
+Buhler, James, Caryl Finn, and David Neumeyer (2000). _Music and Cinema_, Hanover, NH: University Press of New England.  
+Buhler, James, and Hannah Lewis (2020). [_Voicing the Cinema : Film music and the Integrated Soundtrack_](https://linker2.worldcat.org/?jHome=http%3A%2F%2F0-search.ebscohost.com.ksclib.keene.edu%2Flogin.aspx%3Fdirect%3Dtrue%26scope%3Dsite%26db%3Dnlebk%26AN%3D2334639&linktype=best). Urbana: University of Illinois Press.    
+Chion, Michel (2017). [_Audio-Vision: Sound on Screen_](http://0-search.ebscohost.com.ksclib.keene.edu/login.aspx%3fdirect%3dtrue%26db%3dnlebk%26AN%3d2026762%26site%3dehost-live%26scope%3dsite%26ebv%3DEB%26ppid%3Dpp_171). Second English edition. New York: Columbia University Press [first published 1990].    
+Culhane, John (1983). _Walt Disney’s Fantasia_. New York: Abradale Press/Harry N. Abrams, Inc.  
+Deutsch, Stephen (2007). "[Editorial](http://dokoissho.sdf.org/ksc-call/soundtracks/pdf/soundtrack-editorial.pdf)." (_The Soundtrack_, vol. 1, no. 1.    
+Ford, Andrew (2009). _The Sound of Pictures: Listening to the Movies_. Cullingwood, Victoria: Black, Inc.    
+Gabbard, Krin (1996). _Jammin’ at the Margins: Jazz and the American Cinema_. Chicago: Chicago University Press.  
+Goldmark, Daniel, Lawrence Kramer, and Richard D. Leppert, eds. (2007). _Beyond the Soundtrack: Representing Music in Cinema_. Berkeley: University of California Press.  
+Greene, Liz, and Danijela Kulezic-Wilson, eds. (2016).  [_The Palgrave Handbook of Sound Design and Music in Screen Media : Integrated Soundtracks_](https://linker2.worldcat.org/?jHome=http%3A%2F%2F0-search.ebscohost.com.ksclib.keene.edu%2Flogin.aspx%3Fdirect%3Dtrue%26scope%3Dsite%26db%3Dnlebk%26AN%3D1231407&linktype=best). London: Palgrave Macmillan.    
+Harper, Graeme, Ruth Doughty, and Jochen Eisentraut, eds. (2009). _Sound and Music in Film and Visual Media_. New York: Bloomsbury Academic.  
+Kalinak, Kathryn (2010). [_Film Music: A Very Short Introduction_](https://linker2.worldcat.org/?jHome=http%3A%2F%2F0-search.ebscohost.com.ksclib.keene.edu%2Flogin.aspx%3Fdirect%3Dtrue%26scope%3Dsite%26db%3Dnlebk%26AN%3D311723&linktype=best). Oxford: Oxford University Press.  
+Neumeyer, David, ed. (2014). [_The Oxford Handbook of Film Music Studies_](https://linker2.worldcat.org/?jHome=http%3A%2F%2F0-search.ebscohost.com.ksclib.keene.edu%2Flogin.aspx%3Fdirect%3Dtrue%26scope%3Dsite%26db%3Dnlebk%26AN%3D826679&linktype=best). Oxford and New York: Oxford University Press.  
+Philips, Winifred (2017). _A Composer’s Guide to Game Music_. Cambridge, MA: MIT Press.   
+Platte, Nathan (2011). "Music for _Spellbound_ (1945): A Contested Collaboration." _Journal of Musicology, vol. 48, no. 4: 418-63.  
+Schartmann, Andrew (2015). _Koji Kondo’s Super Mario Bros. Soundtrack_. New York: Bloomsbury Academic.
 
 ## Policies & Protocol
 
