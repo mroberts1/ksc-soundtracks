@@ -13,7 +13,6 @@ output:
     citation_package: natbib
     latex_engine: lualatex
   pdf_document: default
-mainfont: Inter
 link-citations: yes
 ---
 # IIFILM-362-01 Listening to Movies: Film Soundtracks
