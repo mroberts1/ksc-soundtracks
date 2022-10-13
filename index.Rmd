@@ -16,7 +16,8 @@ output:
 link-citations: yes
 ---
 # IIFILM-362-01 Listening to Movies: Film Soundtracks
-![](img/ennio-morricone-trumpet.jpg)  
+![](img/ennio-morricone-trumpet.jpg)
+
 Fall Semester 2022  
 4 credits  
 Thursday 10:00 a.m.-1:30 p.m.  
@@ -62,6 +63,8 @@ _Annihilation_ (Alex Garland, 2018)
 
 ## Documentaries
 
+_Lotte Reiniger: Homage to the Inventor of the Silhouette Film_ (Katja Raganelli, 1999)  
+_Mellodrama: The Mellotron Movie_ (Dianna Dilworth, 2004)  
 _Music for the Movies: Bernard Herrmann_ (Joshua Waletzky, 1992)  
 _Music for the Movies: Toru Takemitsu_ (Charlotte Zwerin, 1994)  
 _Music for the Movies: Georges Delerue_ (Jean-Louis Comolli, 1995)  
