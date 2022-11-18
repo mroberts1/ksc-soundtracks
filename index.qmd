@@ -19,7 +19,7 @@ embed-resources: true
 editor: visual
 ---
 
-# IIFILM-362-01 Listening to Movies: Film Soundtracks
+## IIFILM-362-01 Listening to Movies: Film Soundtracks
 
 ![](img/ennio-morricone-trumpet.jpg)
 
@@ -169,7 +169,7 @@ Ted Greenwald, ["The Self-Destructing Modules Behind Revolutionary 1956 Soundtr
 
 See also: *The Day The Earth Stood Still* (1951); *The Birds* (1963); *Sorcerer* (1977) (Tangerine Dream); *Drive* (2011)
 
-In-class: *Theremin: An Electronic Odyssey* (1993) or *Deconstructing Dad: The Music, Machines, and Mystery of Raymond Scott*
+In-class: *Theremin: An Electronic Odyssey* (1995) or *Deconstructing Dad: The Music, Machines, and Mystery of Raymond Scott*
 
 ------------------------------------------------------------------------
 
@@ -264,7 +264,7 @@ Watch: *Aguirre or the Wrath of God*
 
 [The Long, Long Awaited Apprehension Engine](http://apprehensionengine.com/PreOrder/)(on Mark Korven's site)
 
-[DIY Instruments: The Apprehension Engine Part I: Introduction](https://www.diyfilmcomposer.com/diy-instruments-apprehension-engine-part-1/) ([*DIY Film Composer*](https://www.diyfilmcomposer.com/)website, 15 October 2018)
+[DIY Instruments: The Apprehension Engine Part I: Introduction](https://www.diyfilmcomposer.com/diy-instruments-apprehension-engine-part-1/) ([*DIY Film Composer*](https://www.diyfilmcomposer.com/) website, 15 October 2018)
 
 Watch: *The Witch*
 
