@@ -1,19 +1,22 @@
 ---
-title: ''
-author: "Martin Roberts"
-date: "`r Sys.Date()`"
-output:
-  tufte::tufte_html:
-    css: my_style.css
-  tufte::tufte_book:
-    citation_package: natbib
-    latex_engine: lualatex
-  word_document: null
-  tufte::tufte_handout:
-    citation_package: natbib
-    latex_engine: lualatex
-  pdf_document: default
-link-citations: yes
+title: ""
+format: 
+  html:
+    theme: 
+      light: flatly
+      dark: darkly
+    fontsize: 1em
+    linestretch: 1.7
+    smooth-scroll: true 
+  pdf:
+    geometry:
+    - top=30mm
+    - left=30mm 
+  docx: default
+page-layout: article
+fig-responsive: true
+embed-resources: true
+editor: visual
 ---
 
 # IIFILM-362-01 Listening to Movies: Film Soundtracks
@@ -334,7 +337,7 @@ Buhler, James, Caryl Finn, and David Neumeyer (2000). *Music and Cinema*, Hanov
 
 Buhler, James, and Hannah Lewis (2020). [*Voicing the Cinema : Film music and the Integrated Soundtrack*](https://linker2.worldcat.org/?jHome=http%3A%2F%2F0-search.ebscohost.com.ksclib.keene.edu%2Flogin.aspx%3Fdirect%3Dtrue%26scope%3Dsite%26db%3Dnlebk%26AN%3D2334639&linktype=best). Urbana: University of Illinois Press.
 
-Chion, Michel (2017). [*Audio-Vision: Sound on Screen*](http://0-search.ebscohost.com.ksclib.keene.edu/login.aspx%3fdirect%3dtrue%26db%3dnlebk%26AN%3d2026762%26site%3dehost-live%26scope%3dsite%26ebv%3DEB%26ppid%3Dpp_171). Second English edition. New York: Columbia University Press [first published 1990].
+Chion, Michel (2017). [*Audio-Vision: Sound on Screen*](http://0-search.ebscohost.com.ksclib.keene.edu/login.aspx%3fdirect%3dtrue%26db%3dnlebk%26AN%3d2026762%26site%3dehost-live%26scope%3dsite%26ebv%3DEB%26ppid%3Dpp_171). Second English edition. New York: Columbia University Press \[first published 1990\].
 
 Culhane, John (1983). *Walt Disney's Fantasia*. New York: Abradale Press/Harry N. Abrams, Inc.
 
