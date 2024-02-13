@@ -8,10 +8,6 @@ format:
     fontsize: 1em
     linestretch: 1.7
     smooth-scroll: true 
-  pdf:
-    geometry:
-    - top=30mm
-    - left=30mm 
   docx: default
 page-layout: article
 fig-responsive: true
@@ -19,17 +15,9 @@ embed-resources: true
 editor: visual
 ---
 
-## IIFILM-362-01 Listening to Movies: Film Soundtracks
+## Listening to Movies: Film Soundtracks
 
 ![](img/ennio-morricone-trumpet.jpg)
-
-Fall Semester 2022\
-Thursday 10:00 a.m.-1:30 p.m.\
-Parker Hall - Drenan Auditorium\
-Dr. Martin Roberts\
-Office hours: Thursday 4:00-6:00 p.m.\
-Office location: Media Arts 124\
-Email: [martin.roberts\@keene.edu](mailto:martin.roberts@keene.edu)
 
 ------------------------------------------------------------------------
 
