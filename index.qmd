@@ -1,19 +1,32 @@
 ---
-title: ""
-format: 
+title: ''
+author: ''
+format:
   html:
     theme: 
-      light: flatly
-      dark: darkly
-    fontsize: 1em
-    linestretch: 1.7
+      light: ember.scss
+      dark: slate
+    css: custom.scss
+    fontsize: 1.1em
+    linestretch: 1.5
+    linkcolor: red
     smooth-scroll: true 
   docx: default
-page-layout: article
-fig-responsive: true
-embed-resources: true
-editor: visual
+filters: 
+  - lightbox
+lightbox:
+  match: auto
+  effect: fade
+  desc-position: right
 ---
+
+```{r}
+#| label: load-packages
+#| include: false
+
+library(tidyverse)
+library(palmerpenguins)
+```
 
 ## Listening to Movies: Film Soundtracks
 
@@ -30,8 +43,6 @@ Since the arrival of sound in cinema in the late 1920s, musical soundtracks have
 ## Reading Assignments
 
 Kathryn Kalinak, [*Film Music: A Very Short Introduction*](https://linker2.worldcat.org/?jHome=http%3A%2F%2F0-search.ebscohost.com.ksclib.keene.edu%2Flogin.aspx%3Fdirect%3Dtrue%26scope%3Dsite%26db%3Dnlebk%26AN%3D311723&linktype=best). Oxford: Oxford University Press, 2010.
-
-This text is available as an e-book via Mason Library.
 
 Other reading assignments will be available for download from Canvas or either individually or collectively as a zip file from the course GitHub repository.
 
